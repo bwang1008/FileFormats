@@ -1,1 +1,1 @@
-clang-format --style=file $1
+clang-format -i --style=file $1
